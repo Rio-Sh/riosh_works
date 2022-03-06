@@ -9,3 +9,5 @@ draft: false
 
 {{< video src="my_task_app_demo" height="400px" >}}
 
+### github repository
+[Rio-Sh/StudyTaskApp](https://github.com/Rio-Sh/StudyTaskApp)
