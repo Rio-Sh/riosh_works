@@ -1,9 +1,13 @@
 ---
 title: "Quick Wordbook"
 date: 2022-03-06T20:05:48+09:00
+summary: Wordbook app for Japanese and English
 draft: false
 ---
 
-Wordbook app for Japanese and English
+**Wordbook app between Japanese and English**
 
 {{< video src="wordbook_demo" height="400px" >}}
+
+### github repository
+[Rio-Sh/QuickWordbook](https://github.com/Rio-Sh/QuickWordbook)
