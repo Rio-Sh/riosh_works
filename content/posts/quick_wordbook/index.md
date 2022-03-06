@@ -5,3 +5,5 @@ draft: true
 ---
 
 Wordbook app for Japanese and English
+
+{{< video src="wordbook_demo" height="400px" >}}

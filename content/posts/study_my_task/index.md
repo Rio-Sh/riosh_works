@@ -5,3 +5,6 @@ draft: true
 ---
 
 Simple TODO app on Android
+
+{{< video src="my_task_app_demo" height="400px" >}}
+
