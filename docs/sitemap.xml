@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Rio-sh.github.io/riosh_works/categories/</loc>
+    <loc>https://Rio-sh.github.io/riosh_works/posts/</loc>
+    <lastmod>2022-03-06T20:05:48+09:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://Rio-sh.github.io/riosh_works/posts/quick_wordbook/</loc>
+    <lastmod>2022-03-06T20:05:48+09:00</lastmod>
   </url><url>
     <loc>https://Rio-sh.github.io/riosh_works/</loc>
+    <lastmod>2022-03-06T20:05:48+09:00</lastmod>
+  </url><url>
+    <loc>https://Rio-sh.github.io/riosh_works/posts/study_my_task/</loc>
+    <lastmod>2022-03-06T19:57:51+09:00</lastmod>
+  </url><url>
+    <loc>https://Rio-sh.github.io/riosh_works/archives/</loc>
+  </url><url>
+    <loc>https://Rio-sh.github.io/riosh_works/categories/</loc>
   </url><url>
     <loc>https://Rio-sh.github.io/riosh_works/tags/</loc>
   </url>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rio-Sh Works</title>
+    <link>https://Rio-sh.github.io/riosh_works/posts/</link>
+    <description>Recent content on Rio-Sh Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 06 Mar 2022 20:05:48 +0900</lastBuildDate><atom:link href="https://Rio-sh.github.io/riosh_works/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Wordbook</title>
+      <link>https://Rio-sh.github.io/riosh_works/posts/quick_wordbook/</link>
+      <pubDate>Sun, 06 Mar 2022 20:05:48 +0900</pubDate>
+      
+      <guid>https://Rio-sh.github.io/riosh_works/posts/quick_wordbook/</guid>
+      <description>Wordbook app for Japanese and English
+Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!  </description>
+    </item>
+    
+    <item>
+      <title>StudyMyTask</title>
+      <link>https://Rio-sh.github.io/riosh_works/posts/study_my_task/</link>
+      <pubDate>Sun, 06 Mar 2022 19:57:51 +0900</pubDate>
+      
+      <guid>https://Rio-sh.github.io/riosh_works/posts/study_my_task/</guid>
+      <description>Simple TODO app on Android
+Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!  </description>
+    </item>
+    
+  </channel>
+</rss>
