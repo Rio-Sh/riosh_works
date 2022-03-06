@@ -1,6 +1,6 @@
 baseURL = 'https://Rio-sh.github.io/riosh_works'
 languageCode = 'en-us'
 title = 'Rio-Sh Works'
-theme = 'PaperMod'
+theme = ["hugo-video", "PaperMod"]
 canonifyurls = true
 publishDir = "docs"
