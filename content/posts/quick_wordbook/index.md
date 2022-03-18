@@ -14,13 +14,13 @@ draft: false
 
 ### 機能
 * 単語の追加・削除・編集
-* 単語の追加編集時の自動翻訳
+* 単語の追加編集時の自動翻訳(英訳・和訳)
 * 追加した単語の一覧表示
 * ダークモード対応
 {{< video src="wordbook_dark_demo" height="250px" >}}　　
 
 ### 主な使用技術やライブラリ
-* MVVM + 単方向データフロー(UDF)
+* 単方向データフロー(UDF)
 * Jetpack Compose
 * Retrofit
 * Room
