@@ -5,7 +5,7 @@ summary: Wordbook app for Japanese and English
 draft: false
 ---
 
-**English vocaburaly wordbook app**
+**English vocabulary wordbook app**
 
 {{< video src="wordbook_demo" height="400px" >}}
 
