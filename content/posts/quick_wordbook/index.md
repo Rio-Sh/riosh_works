@@ -1,7 +1,7 @@
 ---
 title: "Quick Wordbook"
 date: 2022-03-06T20:05:48+09:00
-summary: Wordbook app for Japanese and English
+summary: English vacabulary wordbook app for Android
 draft: false
 ---
 
