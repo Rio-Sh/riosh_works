@@ -10,8 +10,11 @@ draft: false
 {{< video src="wordbook_demo" height="400px" >}}
 
 ### github repository
-[Rio-Sh/QuickWordbook](https://github.com/Rio-Sh/QuickWordbook)
+[Rio-Sh/QuickWordbook](https://github.com/Rio-Sh/QuickWordbook)  
 
+### Apk file
+[quickwordbook-release.apk](/apk/quickwordbook-release.apk)  
+※最新のリポジトリを反映していない場合があります。
 ### 機能
 * 単語の追加・削除・編集
 * 単語の追加編集時の自動翻訳(英訳・和訳)
