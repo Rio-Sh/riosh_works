@@ -13,7 +13,7 @@ draft: false
 [Rio-Sh/QuickWordbook](https://github.com/Rio-Sh/QuickWordbook)  
 
 ### Apk file
-[quickwordbook-release.apk](/apk/quickwordbook-release.apk)  
+[quickwordbook-release.apk](/apk/quickwordbook-release-ver1_1.apk)  
 ※最新のリポジトリを反映していない場合があります。
 ### 機能
 * 単語の追加・削除・編集
