@@ -8,6 +8,8 @@ canonifyurls: true
 publishDir: docs
 
 params:
+    defaultTheme: dark
+
     homeInfoParams:
         Title: App
         Content: Each page has overview and link to a repository. 
@@ -15,4 +17,9 @@ params:
     socialIcons: # optional
         - name: github
           url: "https://github.com/Rio-Sh"
+
+    cover:
+      hidden: false
+      hiddenInList: false
+      hiddenInSingle: true
 

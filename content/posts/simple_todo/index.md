@@ -3,6 +3,8 @@ title: "Simple ToDo"
 date: 2022-03-06T19:57:51+09:00
 summary: Simple ToDo app on Android
 draft: false
+cover:
+    image: "images/todo_thumb.png"
 ---
 
 **Simple ToDo app on Android**

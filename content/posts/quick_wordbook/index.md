@@ -3,6 +3,8 @@ title: "Quick Wordbook"
 date: 2022-03-06T20:05:48+09:00
 summary: English vacabulary wordbook app for Android
 draft: false
+cover:
+    image: "images/quick_thumb(1).png"
 ---
 
 **English vocabulary wordbook app**
