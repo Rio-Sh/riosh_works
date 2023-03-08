@@ -10,7 +10,10 @@ cover:
 **Simple ToDo app on Android**
 
 {{< video src="my_task_app_demo" height="400px" >}}
-
+  
+### 概要
+シンプルなTODOアプリ  
+  
 ### github repository
 [Rio-Sh/SimpleTodo](https://github.com/Rio-Sh/SimpleToDo)
 
