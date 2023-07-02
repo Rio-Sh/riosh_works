@@ -6,7 +6,16 @@
     <description>Recent content on Rio-Sh Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Mar 2022 20:05:48 +0900</lastBuildDate><atom:link href="https://Rio-sh.github.io/riosh_works/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 05:41:52 +0900</lastBuildDate><atom:link href="https://Rio-sh.github.io/riosh_works/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geo AR Message App</title>
+      <link>https://Rio-sh.github.io/riosh_works/posts/geo_ar/</link>
+      <pubDate>Mon, 03 Jul 2023 05:41:52 +0900</pubDate>
+      
+      <guid>https://Rio-sh.github.io/riosh_works/posts/geo_ar/</guid>
+      <description>Geo AR message app</description>
+    </item>
+    
     <item>
       <title>Quick Wordbook</title>
       <link>https://Rio-sh.github.io/riosh_works/posts/quick_wordbook/</link>
